@@ -1,0 +1,2 @@
+# bashPrompt
+personalized bash prompt
